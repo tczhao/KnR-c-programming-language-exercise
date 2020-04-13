@@ -1,0 +1,1 @@
+PowerShell.exe -Command "docker run --rm -v ${PWD}:/project -it knr:latest /bin/bash"
